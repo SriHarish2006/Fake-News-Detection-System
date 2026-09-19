@@ -4,15 +4,11 @@
 
 ### 🤖 AI-Powered News Classification Using NLP & Machine Learning
 
-Detect potentially **Fake** or **Real** news using Natural Language Processing, TF-IDF feature extraction, and Machine Learning.
+🤖 Machine Learning-Based Fake News Classification
 
-<br>
+An intelligent Fake News Detection System that uses Natural Language Processing (NLP) and Machine Learning to classify news articles as Real or Fake.
 
-
-
-
-\
-
+The system converts news text into numerical features using TF-IDF (Term Frequency–Inverse Document Frequency) and applies machine learning classification algorithms to identify potentially misleading or fabricated news content.
 </p>
 
 ---
